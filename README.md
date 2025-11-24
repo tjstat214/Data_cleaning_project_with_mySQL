@@ -25,7 +25,7 @@ Initial columns: 10 columns
  6. team_members (VARCHAR)– Team members involved in the project(comma-separated)
  7. status (VARCHAR)– Current status of the project
  8. budget (FLOAT)– Budget allocated for the project
- 9. expenditure (FLOAT)– Money spent on the project
+ 9. expenditure (FLOAT)– Money spent on the project  
  10.client (VARCHAR)– Name of the client company
 
 
