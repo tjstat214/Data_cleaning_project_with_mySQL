@@ -12,6 +12,7 @@ To significantly improve the quality and consistency of the datasets. project tr
 
 ### Dataset Condition:
 The dataset is "dirty" due to internal mismanagement and inconsistent data collection methods. It contains a significant amount of inconsistent and missing data.  
+
 Number of rows: 1800 rows  
 Number of columns: 10 columns 
 
@@ -44,11 +45,12 @@ MySQL
 * Normalize Revenue Data
 
   
-This is the mySQL script that explain and shows the data cleaning processes:
-[The Data Cleaning SQL script:](data_cleaning_with_mySQL.sql)
+This is the mySQL script that explain and shows the data cleaning processes: 
+[The Data Cleaning SQL script:](data_cleaning_project_with_mySQL.sql)
 
 
 The raw dataset for the data cleaning project: 
+
 [raw_dataset_for_the_project](tech_solutions_data.csv)
 
 
