@@ -46,22 +46,25 @@ MySQL
 
   
 This is the mySQL script that explain and shows the data cleaning processes: 
+
 [The Data Cleaning SQL script:](data_cleaning_project_with_mySQL.sql)
 
 
-The raw dataset for the data cleaning project: 
+The raw dataset for the data cleaning project:  
 
 [raw_dataset_for_the_project](tech_solutions_data.csv)
 
 
 Sample of the cleaned data after transformation: 
+
 ![sample_of_the_cleaned_data](final_transformation_image.png)
 
 
 ## Results and Impact: 
-This project serves as proof of proficiency in essential SQL functions. Data cleaning is a very important aspect
-of data analysis. Cleaning the data get me familiar with the data.
-Cleaned data also gives accurate insights and lead to a better conclusion. This project helps to provide cleaned data
-that is ready for analysis and provides value to the data given.
+* This project serves as proof of proficiency in essential SQL functions.
+* The Data cleaning process provided a platform to know my data better, its quirks, flows and mysteries
+* This project helps to provide cleaned data that is ready for analysis and provides value to the data given.
+* Cleaning the data also ensure accurate insights that lead to a better decison making.
+  
 
 
