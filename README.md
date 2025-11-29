@@ -31,7 +31,7 @@ Number of columns: 10 columns
 
 
 ## Tools Used: 
-MySQL
+**MySQL**
 
 ## Key Cleaning Steps:
 * Remove Duplicate Records 
@@ -45,17 +45,17 @@ MySQL
 * Normalize Revenue Data
 
   
-This is the mySQL script that explain and shows the data cleaning processes: 
+## This is the mySQL script that explain and shows the data cleaning processes: 
 
 [The Data Cleaning SQL script:](data_cleaning_project_with_mySQL.sql)
 
 
-The raw dataset for the data cleaning project:  
+## The raw dataset for the data cleaning project:  
 
 [raw_dataset_for_the_project](tech_solutions_data.csv)
 
 
-Sample of the cleaned data after transformation: 
+## Sample of the cleaned data after transformation: 
 
 ![sample_of_the_cleaned_data](final_transformation_image.png)
 
